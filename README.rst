@@ -31,7 +31,7 @@ Connections_API
 Permissions	Description
 
 	============	==========================================================================
-    r_network		Required to retrieve 1st degree connections
+    	r_network	Required to retrieve 1st degree connections
 	------------	--------------------------------------------------------------------------
 	r_compliance	Required to retrieve your activity for compliance monitoring and archiving
 	============	==========================================================================
